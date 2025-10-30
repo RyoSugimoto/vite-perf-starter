@@ -1,0 +1,7 @@
+name = "vite-perf-starter"
+main = "dist/index.html"
+compatibility_date = "2025-01-01"
+
+[site]
+  bucket = "./dist"
+  entry-point = "workers-site"

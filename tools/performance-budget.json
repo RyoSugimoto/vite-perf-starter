@@ -1,0 +1,7 @@
+{
+  "javascript": {
+    "maxTotalBytes": 200000,
+    "maxMainThreadTime": 2000,
+    "maxLongTasks": 10
+  }
+}
