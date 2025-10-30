@@ -39,3 +39,6 @@ npm run build && npm run deploy:netlify
 - `maxMainThreadTime`: JS解析＋実行時間（2秒以内）
 - `maxLongTasks`: 50ms超のタスク数（10未満）
 
+## 参考
+
+- [JavaScript 起動の最適化  |  Articles  |  web.dev](https://web.dev/articles/optimizing-content-efficiency-javascript-startup-optimization?hl=ja)
